@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For You💙</title>
+<style>
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    font-family:Arial;
+    text-align:center;
+
+    background-image:url("https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA2ZGVzaWduLXJlbWl4LWJnLTEyLWEuanBn.jpg");
+    background-size:cover;
+    background-position:center;
+h1{
+    font-size:60px;
+    color:red;
+}
+
+p{
+    font-size:25px;
+}
+</style>
+</head>
+<body>
+
+<h1>I Love You Ammu💙 </h1>
+<p>You are very special to me.And you are the only person make me to smile lot💙🥺💋</p>
+<p>“No matter how much we fight, I still want you. Please don’t ever leave me.”💙.</p>
+
+    
+</body>
+</html>
